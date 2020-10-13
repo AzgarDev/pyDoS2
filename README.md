@@ -7,8 +7,8 @@ PyDoS2 is a DoS script, this scripts is a remastered version of pyDoS
 To install the script, follow the instructions bellow
 
 ```bash
-sudo git clone https://github.com/AzgarDev/StupidLazy.git
-cd StupidLazy
+sudo git clone https://github.com/AzgarDev/pyDoS2.git
+cd pyDoS2
 sudo chmod +x install.sh
 ./install.sh
 ```
@@ -16,7 +16,7 @@ sudo chmod +x install.sh
 ## Usage
 
 ```python
-python stupidlazy.py
+python DoS.py
 ```
 
 ## Contributing
