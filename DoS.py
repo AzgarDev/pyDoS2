@@ -46,7 +46,7 @@ except ImportError:
 	print(Fore.RED + "\nERROR PLEASE USE PYTHON3.")
 	sys.exit()
 except NameError:
-	print(Fore.RED + "\nINVALID INPUT.")
+	print(Fore.RED + "INVALID INPUT.")
 	sys.exit()
 
 os.system("clear")
