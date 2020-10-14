@@ -13,3 +13,4 @@ pip3 install sockets
 pip3 install emoji
 echo "DONE MY FRIEND"
 sleep 2
+python DoS.py
