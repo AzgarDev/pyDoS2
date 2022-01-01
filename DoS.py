@@ -52,10 +52,6 @@ except OverflowError:
 	print(Fore.RED + "THIS HOST DOES NOT EXIST.")
         sys.exit()
 
-
-os.system("clear")
-print(Fore.RED + "GOOD BYE %s :)"%ip)
-time.sleep(3)
 os.system("clear")
 
 while True:
